@@ -1,0 +1,15 @@
+{
+  "name": "morosnidane-soapui-presentation",
+  "version": "0.0.1",
+  "dependencies": {
+
+  },
+  "devDependencies" : {
+    "webpack": "latest",
+    "clean-webpack-plugin": "^0.1.3",
+    "css-loader": "latest",
+    "file-loader": "latest",
+    "style-loader": "latest",
+    "script-loader": "latest"
+  }
+}
