@@ -21,6 +21,7 @@
 - Testing tool for SOA and Web Service and REST.
 - Mocking capabilities
 - Load testing
+- Maven/Jenkins integration
 
 ---
 
@@ -28,6 +29,7 @@
 - TestSuites and TestSteps
 - Many assert options
 - Property transfer and expressions
+- Groovy scripts
 
 ---
 
